@@ -11,7 +11,7 @@
  <a href="https://www.educative.io" target="_blank">
   
 As Cesium Certified Developer, I 'm mainly working on the overlapped area of Web and GIS worlds, specially CesiumJS. <br>
-If you have any unresolved problem in Cesium community, do not hesitate to contact me. <br/>
+If you have any unresolved problem in Cesium community, do not hesitate to contact me.
 
 <a href="https://www.youtube.com/watch?v=I0QNekixQLw&list=PLkL3VCCGFU9FKD0G-NnPoPoI2-T2fULFA">Please see my <strong>demo videos</strong>!</a>
 <br/>
